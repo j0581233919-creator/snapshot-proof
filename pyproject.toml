@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "snapshot-proof"
+version = "0.1.0"
+description = "Cooperative SQLite and artifact snapshots verified by isolated restore drills"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+dependencies = []
+classifiers = ["Operating System :: POSIX :: Linux"]
+
+[project.scripts]
+snapshot-proof = "snapshot_proof.__main__:main"
+
+[tool.setuptools]
+packages = ["snapshot_proof"]
+
+[tool.uv]
+package = false

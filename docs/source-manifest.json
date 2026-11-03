@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-03",
+  "files": [
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/DEPLOYMENT/state_snapshot.py",
+      "bytes": 5160,
+      "sha256": "9d0b554e7deb8d3f09626ce8809e4174871e0c1dab734a4000edafb2c1a59939",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/DEPLOYMENT/backup_local_runtime.py",
+      "bytes": 4027,
+      "sha256": "8f3066f6b00b2728275f7f327e9bb683a63cf4320775d8ec3f9ad445e50e4a0d",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/DEPLOYMENT/backup_state.sh",
+      "bytes": 199,
+      "sha256": "5361b19abae895251310af77523888bc8831f68a67bfcb6671437b3f40e48771",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/DEPLOYMENT/restore_state.sh",
+      "bytes": 209,
+      "sha256": "35d59ff364967b6690eef191f213f4f594e5061fc1a90fdf06a6171550017561",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/PROJECT_SOURCE/NUSOOR/nusoor_core/execution_store.py",
+      "bytes": 7269,
+      "sha256": "a88a194aa4a088949810f25f34b043a9b800ee113ecd74a7d52fb8a6f9fa0386",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/PROJECT_SOURCE/NUSOOR/sprint_packages/nusoor_backup_restore_runbook/current_no_backup_policy.py",
+      "bytes": 870,
+      "sha256": "1f679016b0c88d164a895b16c73d32b53c6d92e816291434032b8555a60651a9",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/PROJECT_SOURCE/NUSOOR/pyproject.toml",
+      "bytes": 982,
+      "sha256": "b7af01a153242a75bee57dbcd32aebda8d763e141c74a7ce0860059ef0583c6a",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/NEXUS_SUBSYSTEM/shared/durable-store.js",
+      "bytes": 2693,
+      "sha256": "ccf2cddae9f2a995e1332a8c85064d4b71e7844a64a979d195ebb6517c560717",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/NEXUS_SUBSYSTEM/nexus-premium-api/src/services/executionLedger.ts",
+      "bytes": 7428,
+      "sha256": "bf1fc5b2866f5ac3216a0603ebe8db8a1fa6fdcbd7fbf9fcc1f06ab24b00bb47",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/NEXUS_SUBSYSTEM/nexus-premium-api/src/utils/db.ts",
+      "bytes": 1500,
+      "sha256": "59a2cafb3b241903058e4aa7ba7db55bd3d9fbce5310ce234ca6b84560b9d3bd",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/NEXUS_SUBSYSTEM/nexus-premium-api/package.json",
+      "bytes": 1045,
+      "sha256": "d6f43c0eda4c3d2a7fda36b7124aef9031c0457fcd102d286878c720cb93b523",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/ATHEER_INTEGRATION/index.js",
+      "bytes": 29969,
+      "sha256": "2153e2c3a23716a80e4a33ddea1145373544adc2d1d98b5c38d5235949fb5c05",
+      "reuse": "none; static read-only inspection"
+    },
+    {
+      "path": "NUSOOR_DELIVERY_CANDIDATE_20261102/ATHEER_INTEGRATION/package.json",
+      "bytes": 507,
+      "sha256": "be955ba815ab7beacefb0a0e7382b5555955edf59677ac1f774038072d699840",
+      "reuse": "none; static read-only inspection"
+    }
+  ]
+}
